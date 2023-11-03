@@ -1,0 +1,17 @@
+git+https://github.com/AtrCheema/AI4Water.git@7d9f982573729be874f69b7d74cf903b73c07db2
+
+openpyxl
+h5py
+
+xgboost
+lightgbm
+catboost
+
+sphinx<7
+sphinx-prompt
+sphinx_rtd_theme
+sphinx_issues
+sphinx-gallery
+nbsphinx
+sphinx_copybutton
+
